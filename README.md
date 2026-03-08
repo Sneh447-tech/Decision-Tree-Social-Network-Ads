@@ -44,3 +44,6 @@ Not Purchased
 
 ## Visualization
 Decision tree structure saved in `images/demo.jpg`
+## Decision Tree Visualization
+
+![Decision Tree](demo.jpg)
